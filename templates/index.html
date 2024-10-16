@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask App Frontend</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Store products search</h1>
+        <form id="requestForm">
+            <label for="inputData">Input Data:</label>
+            <input type="text" id="inputData" name="inputData" required>
+            <button type="submit">Send Request</button>
+        </form>
+        <div id="responseContainer">
+            <h2>Query result:</h2>
+            <pre id="jsonResponse"></pre>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

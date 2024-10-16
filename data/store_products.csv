@@ -1,0 +1,61 @@
+id,name,category,description
+1,Dell XPS 13,Laptop,A high-performance laptop with Intel i7 processor and 16GB RAM.
+2,Apple iPhone 14,Phone,A latest model smartphone with advanced camera features.
+3,Sony WH-1000XM4,Headphones,Noise-cancelling headphones with superior sound quality.
+4,Apple iPad Pro,Tablet,A lightweight and portable tablet with M1 chip.
+5,Fitbit Versa 3,Smartwatch,A smartwatch with various health tracking features and GPS.
+6,Canon EOS R5,Camera,A digital camera with high resolution and 8K video recording.
+7,HP Envy 6055,Printer,A wireless printer with scanning and copying capabilities.
+8,Samsung Odyssey G7,Monitor,A 27-inch curved QHD monitor with 240Hz refresh rate.
+9,Logitech G Pro,Keyboard,A mechanical keyboard with RGB lighting and programmable keys.
+10,Logitech MX Master 3,Mouse,A wireless mouse with ergonomic design and customizable buttons.
+11,JBL Charge 5,Speaker,A Bluetooth speaker with deep bass and 20 hours of playtime.
+12,Netgear Nighthawk AX12,Router,A high-speed wireless router with WiFi 6 support.
+13,Seagate Backup Plus,External Hard Drive,A 1TB external hard drive with fast data transfer speeds.
+14,SanDisk Ultra Flair,USB Flash Drive,A 64GB USB flash drive with USB 3.0 support.
+15,Anker PowerPort III,Charger,A fast-charging USB-C charger with 65W output.
+16,Logitech C920,Webcam,A 1080p HD webcam with autofocus and light correction.
+17,Blue Yeti,Microphone,A condenser microphone for recording with multiple pattern modes.
+18,Philips Hue Go,Desk Lamp,An LED desk lamp with adjustable brightness and color settings.
+19,Herman Miller Aeron,Chair,An ergonomic office chair with adjustable lumbar support.
+20,FlexiSpot E7,Desk,An adjustable standing desk with memory presets.
+21,Asus ROG Zephyrus G14,Laptop,A gaming laptop with AMD Ryzen 9 processor and RTX 3060 GPU.
+22,Google Pixel 7,Phone,A smartphone with pure Android experience and excellent camera.
+23,Bose QuietComfort 35 II,Headphones,Noise-cancelling headphones with Alexa voice control.
+24,Microsoft Surface Pro 8,Tablet,A versatile tablet with detachable keyboard and stylus support.
+25,Garmin Forerunner 945,Smartwatch,A smartwatch with advanced fitness tracking and music storage.
+26,Nikon Z6 II,Camera,A digital camera with full-frame sensor and 4K video recording.
+27,Brother HL-L2350DW,Printer,A compact wireless monochrome laser printer.
+28,LG UltraFine 5K,Monitor,A 27-inch 5K monitor with Thunderbolt 3 connectivity.
+29,Razer BlackWidow V3,Keyboard,A mechanical keyboard with green switches and RGB lighting.
+30,Razer DeathAdder V2,Mouse,A wireless mouse with high-precision sensor and ergonomic design.
+31,Ultimate Ears Boom 3,Speaker,A Bluetooth speaker with 360-degree sound and waterproof design.
+32,TP-Link Archer AX6000,Router,A high-speed wireless router with 8-stream WiFi 6 support.
+33,WD My Passport,External Hard Drive,A 2TB external hard drive with password protection.
+34,Kingston DataTraveler,USB Flash Drive,A 128GB USB flash drive with USB 3.1 support.
+35,Apple 20W USB-C Power Adapter,Charger,A fast-charging USB-C charger for iPhone and iPad.
+36,Razer Kiyo,Webcam,A 1080p HD webcam with built-in ring light.
+37,Audio-Technica AT2020,Microphone,A condenser microphone for recording with cardioid pattern.
+38,Yeelight Smart LED Bulb,Desk Lamp,An LED desk lamp with adjustable brightness and smart home integration.
+39,Steelcase Leap,Chair,An ergonomic office chair with adjustable seat depth and lumbar support.
+40,Jarvis Bamboo Standing Desk,Desk,An adjustable standing desk with eco-friendly bamboo top.
+41,Lenovo ThinkPad X1 Carbon,Laptop,A lightweight business laptop with Intel i7 processor and 16GB RAM.
+42,Samsung Galaxy S21,Phone,A smartphone with high-resolution camera and fast performance.
+43,Beats Studio3,Headphones,Wireless noise-cancelling headphones with pure adaptive noise canceling.
+44,Amazon Fire HD 10,Tablet,A budget-friendly tablet with a 10.1-inch display.
+45,Apple Watch Series 7,Smartwatch,A smartwatch with advanced health monitoring features.
+46,Sony Alpha a7 III,Camera,A full-frame mirrorless camera with 24.2MP resolution.
+47,Epson EcoTank ET-4760,Printer,A wireless all-in-one printer with high-capacity ink tanks.
+48,Dell UltraSharp U2720Q,Monitor,A 27-inch 4K monitor with USB-C connectivity.
+49,Corsair K95 RGB Platinum,Keyboard,A mechanical keyboard with customizable RGB lighting.
+50,Microsoft Sculpt Ergonomic Mouse,Mouse,A wireless mouse with an ergonomic design for comfort.
+51,Bose SoundLink Revolve+,Speaker,A portable Bluetooth speaker with 360-degree sound.
+52,Asus RT-AX88U,Router,A high-speed wireless router with WiFi 6 and 8 LAN ports.
+53,Toshiba Canvio Advance,External Hard Drive,A 1TB external hard drive with automatic backup software.
+54,PNY Turbo,USB Flash Drive,A 256GB USB flash drive with high-speed data transfer.
+55,Anker PowerCore 10000,Charger,A compact portable charger with 10000mAh capacity.
+56,Logitech StreamCam,Webcam,A 1080p HD webcam optimized for streaming with USB-C connection.
+57,Rode NT1-A,Microphone,A studio condenser microphone with ultra-low noise.
+58,Taotronics LED Desk Lamp,Desk Lamp,An LED desk lamp with touch control and multiple brightness levels.
+59,Humanscale Freedom Chair,Chair,An ergonomic office chair with self-adjusting recline.
+60,Uplift V2 Standing Desk,Desk,An adjustable standing desk with a sturdy frame and programmable height settings.
